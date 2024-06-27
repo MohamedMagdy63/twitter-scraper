@@ -24,5 +24,8 @@ This project is a Node.js tool for scraping Twitter accounts for mentions of sto
    cd twitter-scraper
 
 
-Uploading Recording 2024-06-27 150310.mp4…
+
+https://github.com/MohamedMagdy63/twitter-scraper/assets/113224407/c8629fbe-32b6-464b-8fa0-2b35bc56067c
+
+
 
